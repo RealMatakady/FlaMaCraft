@@ -5,6 +5,7 @@
 .banner {
   background-image: url("banner_flamacraft.jpg");
   background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .banner1 {
