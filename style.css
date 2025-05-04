@@ -11,16 +11,19 @@
 .banner1 {
   background-image: url("S1Peral2.png");
   background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .banner2 {
   background-image: url("S2Shop2copy.png");
   background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .banner3 {
   background-image: url("Banner3.png");
   background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .banner4 {
