@@ -1,0 +1,175 @@
+.bodyBlue {
+  background-color: #007fff;
+}
+
+.banner {
+  background-image: url("banner_flamacraft.jpg");
+  background-repeat: no-repeat;
+}
+
+.banner1 {
+  background-image: url("S1Peral2.png");
+  background-repeat: no-repeat;
+}
+
+.banner2 {
+  background-image: url("S2Shop2copy.png");
+  background-repeat: no-repeat;
+}
+
+.banner3 {
+  background-image: url("Banner3.png");
+  background-repeat: no-repeat;
+}
+
+.white {
+  color: white
+}
+
+.popis {
+  display: flex;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: sans-serif;
+  font-weight: 900;
+  color: black;
+  text-align: center;
+}
+
+h2 {
+  font-size: 24px;
+  font-family: sans-serif;
+  font-weight: 650;
+  color: black;
+  text-align: center;
+}
+
+h3 {
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+h4 {
+  margin-left: 100px;
+  margin-bottom: 20px;
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: 900;
+}
+
+h5 {
+  margin-left: 130px;
+  margin-bottom: 20px;
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: 700;
+}
+
+p {
+  font-family: Arial;
+  font-weight: 600;
+  padding: 10px;
+  margin-left: 50px;
+}
+
+.textMembers {
+  margin-top: 35px;
+  margin-right: 100px;
+}
+
+.marginLeft {
+  margin-left: 50px;
+}
+
+.skin {
+  display: flex;
+}
+
+.biggerText {
+  font-size: 30px;
+  font-weight: 800;
+}
+
+.textEdit {
+  font-weight: 900;
+  font-family: sans-serif;
+}
+
+.textEdit2 {
+  font-weight: 900;
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+a:link {
+  color: black;
+  background-color: #007fff;
+  font-family: sans-serif;
+  text-decoration: none;
+  font-weight: 900;
+}
+
+a:visited {
+  color: black;
+  background-color: #007fff;
+  font-family: sans-serif;
+  text-decoration: none;
+  font-weight: 900;
+}
+
+a.blue {
+  background-color: #035fff;
+}
+
+a:hover {
+  color: black;
+  background-color: #009fff;
+  font-family: sans-serif;
+  text-decoration: none;
+  font-weight: 900;
+  border-radius: 10%;
+}
+
+.sorters {
+  display: flex;
+  background-color: #4e4e40;
+  border-style: solid;
+  border-width: 5px;
+}
+
+.gray {
+  background-color: #4e4e40;
+}
+
+a.gray {
+  background-color: #4e4e40;
+}
+
+.banner {
+  text-align: center;
+}
+
+.roundedImage {
+  border-radius: 10%;
+}
+
+li {
+  font-weight: 800;
+  font-size: 18px;
+}
+
+.blue {
+  background-color: #035fff;
+}
+
+.orange {
+  background-color: #ff4900;
+}
+
+.bodyOrange {
+  background-color: #ff3500;
+}
