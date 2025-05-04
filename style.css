@@ -22,6 +22,11 @@
   background-repeat: no-repeat;
 }
 
+.banner4 {
+  background-image: url("Banner4.webp");
+  background-repeat: no-repeat;
+}
+
 .white {
   color: white
 }
