@@ -38,6 +38,7 @@
 
 .popis {
   display: flex;
+  flex-wrap:wrap;
 }
 
 h1 {
@@ -149,6 +150,7 @@ a:hover {
   background-color: #4e4e40;
   border-style: solid;
   border-width: 5px;
+  flex-wrap:wrap;
 }
 
 .gray {
@@ -190,11 +192,13 @@ li {
     background-repeat:no-repeat;
     background-size:cover;
     background-position:center;
-    width:400px;
+    width:55%;
     border:3px solid rgb(88,101,242);
     border-radius: 25px;
 }
 
 .Discords img {
     margin:5px;
+    aspect-ratio:4,98:1;
+    width:95%;
 }
