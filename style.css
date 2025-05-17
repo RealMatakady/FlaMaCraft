@@ -204,12 +204,6 @@ li {
   background-color: #ff3500;
 }
 
-.centerImage {
-  display: flex
-  justify-content: center
-  border-radius: 10%;
-}
-
 .Discords {
     background-color:rgb(32,28,28);
     background-image: url("https://brandlogos.net/wp-content/uploads/2021/11/discord-logo.png");
