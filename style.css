@@ -32,6 +32,24 @@
   background-size: cover;
 }
 
+.banner5 {
+  background-image: url("Banner5.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.banner6 {
+  background-image: url("Banner6.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.banner7 {
+  background-image: url("Banner7.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .white {
   color: white
 }
