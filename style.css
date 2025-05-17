@@ -205,7 +205,8 @@ li {
 }
 
 .centerImage {
-  margin: auto
+  display: flex
+  justify-content: center
   border-radius: 10%;
 }
 
