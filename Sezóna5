@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+
+    <title>FlaMaCraft - Sezóna 5</title>
+      <a name="Menu"></a>
+  </head>
+
+  <body class="bodyBlue">
+    <div class="sorters" padding: 20px>
+      <h3 class="gray"><a href="index.html" class="gray"><img src="FlmcLogoNew.png" class="roundedImage" height="40px"></a></h3>
+      <h3 class="gray"><a href="#Spawn" class="gray">Spawn</a></h3>
+      <h3 class="gray"><a href="#Přehled Států" class="gray">Přehled Korun</a></h3>
+      <h3 class="gray"><a href="#Historie" class="gray">Historie</a></h3>
+      <h3 class="gray"><a href="#Galerie" class="gray">Galerie ze Sezóny 4</a></h3>
+    </div>
+
+    <div class="banner5">
+      <br>
+      <h1 class="white">FlaMaCraft - Sezóna 5</h1>
+      <h2 class="white">Celý Podrobný popis</h2>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+    </div>
+
+      <h4>Systém</h4>
+        <p>
+          Zatím nikdy kromě 2. sezóny nebyl implementován žádný specifický set pravidel, což touto sezónou končí. Od teď už platí specifické rulesety, které se pro každou sezónu liší.
+          Pointa rulesetu pro S5 byla v tom, že sice každý hráč vlastnil a spravoval svou zónu, kterou si mohl vybrat nebo mu byla přidělena, nicméně všichni byli součástí jedné země s jediným voleným prezidentem.
+          Později ale, viz <a href="#Historie">historie</a>, vznikaly samosprávné celky, tzv. koruny, inspirované vnitřním systémem Rakouska-Uherska.
+          Každá koruna měla svého vlastního krále, kteří byli po změně systému podřízeni králi celé země. Více se dočtete v <a href="#Historie">historii</a>.
+        </p>
+        <img src="S5 Mapa.png" height="200px" title="Mapa serveru z 28. 9. 2024">
+  <div class="blue">
+  
+    <a name="Spawn"></a>
+      <h4 class="marginLeft">Spawn</h4>
+        <p>
+            Spawn 
+        </p>
+  </div>
+
+    <a name="Přehled Států"></a>
+      <h4>Přehled Korun</h4>
+        <h5></h5>
+            <p>
+              
+            </p>
+            <img src="" height="200px" title="">
+            <img src="" height="200px" title="">
+
+        <h5></h5>
+            <p>
+              
+            </p>
+            <img src="" height="200px" title="">
+
+        <h5></h5>
+            <p></p>
+
+        <h5>Fabrealm</h5>
+            <p></p>
+                <img src="" height="200px" title="">
+    
+  <div class="blue">
+    <a name="Historie"></a>
+      <h4>Historie</h4>
+        <p>
+           
+        </p>
+  </div>
+
+    <a name="Galerie"></a>
+    <h4>Galerie ze Sezóny 5</h4>
+          <div class="popis">
+            <img src="" height="150px">
+            <img src="" height="150px">
+            <img src="" height="150px">
+            <img src="" height="150px">
+            <img src="" height="150px">
+            <img src="" height="150px">
+            </div>
+          <br>
+          <a href="#Menu">Menu</a>
+
+          <footer>
+            © Matakady, 2022 - 2025, GraphiteTheCat 2025
+          </footer>
+    <script src="./script.js"></script>
+  </body>
+</html>
