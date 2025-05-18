@@ -221,3 +221,11 @@ li {
     aspect-ratio:4,98:1;
     width:95%;
 }
+
+table {
+  background-color:rgba(0, 0, 0, 0.5);
+  color:white;
+  border-radius:25px;
+  margin-left:10px;
+  box-shadow:0px 3px white;
+}
